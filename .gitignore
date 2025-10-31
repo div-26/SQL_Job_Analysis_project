@@ -1,0 +1,15 @@
+# Ignore large CSV and data files
+csv_files/*.csv
+*.csv
+
+# VS Code settings
+.vscode/
+.history/
+
+# macOS junk
+.DS_Store
+
+# Logs and temp
+*.log
+*.tmp
+*.bak
